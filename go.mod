@@ -1,4 +1,4 @@
-module postgres-serial
+module go.rayyildiz.dev/postgres-sqlx-demo
 
 go 1.20
 
